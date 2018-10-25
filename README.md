@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+In This  project code sharing is between web & mobile development to build mobile project move to
+cd src/mobile and then run
+react-native run-android
+and to build web 
+cd src/web and then run
+npm start
+
+The shared folder contains redux integration.
+
+Happy Coding :)
+
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
